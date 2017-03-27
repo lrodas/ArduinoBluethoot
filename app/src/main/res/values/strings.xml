@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arduino</string>
+    <string name="btn_buscar_dispositivos">Buscar dispositivos bluetooth</string>
+    <string name="DetectadoDispositivo">Nuevo dispositivo detectado</string>
+    <string name="btn_activar_bluetooth">Activar bluetooth</string>
+    <string name="btn_desactivar_bluetooth">Desactivar bluetooth</string>
+</resources>
